@@ -60,7 +60,7 @@ int main()
     }
     printf ("\n");
     x = -1;
-    printf("(4) Qual Rei da frança foi decaptado durante a Revolução francesa?\n");
+    printf("(4) Qual Rei da frança foi decaptado durante a Revolucao francesa?\n");
     printf ("1 - Luiz XV\n");
     printf ("2 - Napoleao Bonaparte\n");
     printf ("3 - Luiz XVI\n");
